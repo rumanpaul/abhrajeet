@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("C:/Users/shilp/Downloads/WhatsApp Image 2023-04-17 at 12.12.26 AM.jpeg") no-repeat center;
+    background: url("WhatsApp Image 2023-04-17 at 12.12.26 AM.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
